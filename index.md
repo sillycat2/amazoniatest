@@ -1,8 +1,8 @@
 ---
-title: Official website of the Most Serene Republic of Yuhsien
+title: Home
 banner_image: ''
 layout: landing-page
-heading: ''
+heading: Official website of the Most Serene Republic of Yuhsien
 partners: []
 services: []
 sub_heading: ''
