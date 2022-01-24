@@ -1,11 +1,11 @@
 ---
-title: Home
-banner_image: "/uploads/2022/01/24/liangzhu2.jpg"
+title: Official website of the Most Serene Republic of Yuhsien
+banner_image: ''
 layout: landing-page
-heading: Most Serene Republic of Yuhsien
+heading: ''
 partners: []
 services: []
-sub_heading: VITAM IMPENDERE VERO
+sub_heading: ''
 textline: hodjsiffnfdshdsjhfjkds
 hero_button:
   text: Learn more
